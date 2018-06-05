@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="utf-8">
+    <title>login</title>
+  </head>
+  <body>
+    {% if auth %}
+    登录成功
+    {% else %}
+        <form  style="margin:20px;border:1px solid red" method="post">
+            <span>username:</span><input type="text" name="username" id="username"><br/>
+            <span>pd:</span><input type="password" name="password" id="password"><br/>
+            <button type="submit" id="loginBtn">login</button>
+        </form>
+        {% if error %}
+            <h1 style="color:red">{{ error }}!</h1>
+        {% endif %}
+    {% endif %}password
+  </body>
+</html>

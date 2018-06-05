@@ -1,0 +1,5 @@
+批量爬取智联招聘的数据，使用类进行封装
+
+github 中实现 Bilibili视频爬取：https://github.com/airingursb/bilibili-video
+
+github 中实现 豆瓣读书数据爬取 ：https://github.com/lanbing510/DouBanSpider

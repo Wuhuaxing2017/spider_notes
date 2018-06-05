@@ -1,0 +1,364 @@
+{
+  "jobs": [
+    {
+      "company": "上海本森投资管理有限公司",
+      "salary": "20001-30000",
+      "location": "上海-浦东新区",
+      "work": "PHP高级程序员 "
+    },
+    {
+      "company": "韦博教育集团",
+      "salary": "15000-17000",
+      "location": "上海",
+      "work": "韦博总部.NET开发工程师 "
+    },
+    {
+      "company": "韦博教育集团",
+      "salary": "15000-18000",
+      "location": "上海",
+      "work": "韦博总部高级.Net开发工程师 "
+    },
+    {
+      "company": "上海怡科信息科技有限公司",
+      "salary": "6000-8000",
+      "location": "上海",
+      "work": "Python工程师"
+    },
+    {
+      "company": "上海蓝宗电子科技有限公司",
+      "salary": "6000-12000",
+      "location": "上海-浦东新区",
+      "work": "Python Web后台开发"
+    },
+    {
+      "company": "百硕同兴科技(北京)有限公司",
+      "salary": "7500-12000",
+      "location": "上海-浦东新区",
+      "work": "Python 开发工程师"
+    },
+    {
+      "company": "上海勃池信息技术有限公司",
+      "salary": "10001-15000",
+      "location": "上海",
+      "work": "Python爬虫工程师"
+    },
+    {
+      "company": "上海辰石信息技术有限公司",
+      "salary": "15000-30000",
+      "location": "上海",
+      "work": "python 后台工程师"
+    },
+    {
+      "company": "上海海同信息科技有限公司",
+      "salary": "15000-30000",
+      "location": "上海",
+      "work": "中/高级 Python 人工智能研发工程师"
+    },
+    {
+      "company": "上海伯俊软件科技有限公司",
+      "salary": "10001-15000",
+      "location": "上海",
+      "work": "Python开发工程师"
+    },
+    {
+      "company": "上海伯俊软件科技有限公司",
+      "salary": "10001-15000",
+      "location": "上海",
+      "work": "python软件工程师"
+    },
+    {
+      "company": "车音智能科技有限公司北京分公司",
+      "salary": "10000-20000",
+      "location": "上海",
+      "work": "python自然语言处理工程师"
+    },
+    {
+      "company": "上海基诺光学有限公司",
+      "salary": "8000-15000",
+      "location": "上海",
+      "work": "Python/Odoo高级开发工程师"
+    },
+    {
+      "company": "爱奇艺（www.iqiyi.com）",
+      "salary": "15000-25000",
+      "location": "上海",
+      "work": "1571——互娱-Python Web开发工程师-上海"
+    },
+    {
+      "company": "复星一家联合招聘",
+      "salary": "面议",
+      "location": "上海-浦东新区",
+      "work": "Python开发工程师"
+    },
+    {
+      "company": "中公教育",
+      "salary": "面议",
+      "location": "上海-杨浦区",
+      "work": "IT培训讲师（Python）"
+    },
+    {
+      "company": "中国电信集团公司",
+      "salary": "面议",
+      "location": "上海",
+      "work": "软件开发岗（python）"
+    },
+    {
+      "company": "广州海度网络科技有限公司",
+      "salary": "3000-5000",
+      "location": "上海-浦东新区",
+      "work": "急招Python开发助理/实习生"
+    },
+    {
+      "company": "北京千锋互联科技有限公司",
+      "salary": "20001-30000",
+      "location": "上海",
+      "work": "python高级讲师"
+    },
+    {
+      "company": "中公教育上海分公司",
+      "salary": "6000-12000",
+      "location": "上海",
+      "work": "IT培训讲师（Python）"
+    },
+    {
+      "company": "上海润迅商凯电话商务有限公司",
+      "salary": "10000-20000",
+      "location": "上海",
+      "work": "python开发工程师"
+    },
+    {
+      "company": "上海煜喜环保科技有限公司",
+      "salary": "6001-8000",
+      "location": "上海-普陀区",
+      "work": "python开发助理 双休"
+    },
+    {
+      "company": "昆山华信软件技术有限公司",
+      "salary": "10001-15000",
+      "location": "上海",
+      "work": "python工程师"
+    },
+    {
+      "company": "大连斯锐信息技术有限公司",
+      "salary": "10001-15000",
+      "location": "上海",
+      "work": "Python开发工程师"
+    },
+    {
+      "company": "广州司瓦图网络开发有限公司",
+      "salary": "5000-8000",
+      "location": "上海-虹口区",
+      "work": "Python程序开发+双休五险"
+    },
+    {
+      "company": "游族网络",
+      "salary": "15000-25000",
+      "location": "上海",
+      "work": "资深python开发工程师"
+    },
+    {
+      "company": "上海曳惬网络科技有限公司",
+      "salary": "3000-4500",
+      "location": "上海-浦东新区",
+      "work": "Python软件设计（五险）"
+    },
+    {
+      "company": "深圳市芒柠科技有限公司",
+      "salary": "10001-15000",
+      "location": "上海-杨浦区",
+      "work": "Python开发工程师（上海）"
+    },
+    {
+      "company": "深圳市源极光科技有限公司",
+      "salary": "10001-15000",
+      "location": "上海-杨浦区",
+      "work": "python开发工程师（上海）"
+    },
+    {
+      "company": "深圳市八斗才数据有限公司",
+      "salary": "10001-15000",
+      "location": "上海",
+      "work": "Python开发工程师（上海）"
+    },
+    {
+      "company": "深圳市源极光科技有限公司",
+      "salary": "10001-15000",
+      "location": "上海",
+      "work": "python工程师（上海）"
+    },
+    {
+      "company": "深圳市八斗才数据有限公司",
+      "salary": "10000-18000",
+      "location": "上海-长宁区",
+      "work": "python开发工程师（上海）"
+    },
+    {
+      "company": "深圳市源极光科技有限公司",
+      "salary": "10001-15000",
+      "location": "上海",
+      "work": "python开发工程师（上海）"
+    },
+    {
+      "company": "上海芒橙网络科技有限公司",
+      "salary": "4001-6000",
+      "location": "上海",
+      "work": "Python开发助理/双休+项目提成"
+    },
+    {
+      "company": "上海怡胜信息科技有限公司",
+      "salary": "6000-8000",
+      "location": "上海",
+      "work": "Python工程师（应届生亦可）"
+    },
+    {
+      "company": "广州司瓦图网络开发有限公司",
+      "salary": "4001-6000",
+      "location": "上海-杨浦区",
+      "work": "高薪Python技术工程师"
+    },
+    {
+      "company": "中文在线数字出版集团股份有限公司",
+      "salary": "10001-15000",
+      "location": "上海",
+      "work": "Python开发工程师(000638)"
+    },
+    {
+      "company": "上海芒橙网络科技有限公司",
+      "salary": "4001-6000",
+      "location": "上海",
+      "work": "Python程序开发"
+    },
+    {
+      "company": "上海集钢电子商务有限公司",
+      "salary": "6000-8000",
+      "location": "上海",
+      "work": "Python工程师"
+    },
+    {
+      "company": "无锡华云数据技术服务有限公司",
+      "salary": "15000-25000",
+      "location": "上海",
+      "work": "00619-103-中级Python开发工程师"
+    },
+    {
+      "company": "明码（上海）生物科技有限公司",
+      "salary": "10000-20000",
+      "location": "上海",
+      "work": "Python 开发工程师"
+    },
+    {
+      "company": "明码（上海）生物科技有限公司",
+      "salary": "10000-20000",
+      "location": "上海",
+      "work": "Python运维工程师"
+    },
+    {
+      "company": "上海享途网络科技有限公司",
+      "salary": "10001-15000",
+      "location": "上海",
+      "work": "python工程师"
+    },
+    {
+      "company": "交银企业管理服务(上海)有限公司张江高科技园区分公司",
+      "salary": "8000-15000",
+      "location": "上海-徐汇区",
+      "work": "Python开发工程师"
+    },
+    {
+      "company": "上交所技术有限责任公司",
+      "salary": "面议",
+      "location": "上海",
+      "work": "python开发工程师"
+    },
+    {
+      "company": "中软国际科技服务有限公司",
+      "salary": "面议",
+      "location": "上海-浦东新区",
+      "work": "自动化测试工程师(selenium+Python/java)"
+    },
+    {
+      "company": "中软国际科技服务有限公司",
+      "salary": "面议",
+      "location": "上海",
+      "work": "python开发工程师"
+    },
+    {
+      "company": "中软国际科技服务有限公司",
+      "salary": "面议",
+      "location": "上海",
+      "work": "python开发"
+    },
+    {
+      "company": "平安科技(深圳)有限公司",
+      "salary": "面议",
+      "location": "上海",
+      "work": "Python开发工程师（上海）"
+    },
+    {
+      "company": "广州司瓦图网络开发有限公司",
+      "salary": "5000-8000",
+      "location": "上海",
+      "work": "诚聘Python技术工程师"
+    },
+    {
+      "company": "上海芒橙网络科技有限公司",
+      "salary": "2001-4000",
+      "location": "上海",
+      "work": "Python工程师"
+    },
+    {
+      "company": "无锡华云数据技术服务有限公司",
+      "salary": "20001-30000",
+      "location": "上海-杨浦区",
+      "work": "00518-32-高级Python开发工程师"
+    },
+    {
+      "company": "上海市行知进修学院",
+      "salary": "10000-20000",
+      "location": "上海",
+      "work": "Python程序员"
+    },
+    {
+      "company": "上海曳惬网络科技有限公司",
+      "salary": "3000-4500",
+      "location": "上海-浦东新区",
+      "work": "Python脚本（实习）"
+    },
+    {
+      "company": "纳米盒",
+      "salary": "15000-25000",
+      "location": "上海",
+      "work": "Python开发工程师"
+    },
+    {
+      "company": "塔塔信息技术(中国)股份有限公司上海分公司",
+      "salary": "15000-25000",
+      "location": "上海",
+      "work": "python开发工程师"
+    },
+    {
+      "company": "北京新致君阳信息技术有限公司",
+      "salary": "10000-20000",
+      "location": "上海",
+      "work": "Python开发工程师(金融行业)"
+    },
+    {
+      "company": "瞬联讯通科技(北京)有限公司",
+      "salary": "8000-15000",
+      "location": "上海",
+      "work": "Web全栈开发（JS/Python)"
+    },
+    {
+      "company": "海风教育",
+      "salary": "15000-30000",
+      "location": "上海",
+      "work": "python开发工程师"
+    },
+    {
+      "company": "深圳市长亮科技股份有限公司",
+      "salary": "10000-20000",
+      "location": "上海",
+      "work": "银行SAS/R/PYTHON数据分析挖掘建模岗"
+    }
+  ]
+}

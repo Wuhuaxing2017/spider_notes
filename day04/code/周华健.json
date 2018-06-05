@@ -1,0 +1,247 @@
+{
+  'song': [
+    {
+      'bitrate_fee': '{"0":"0|0","1":"0|0"}',
+      'weight': '11515099',
+      'songname': '鬼迷心窍',
+      'resource_type': '0',
+      'songid': '931772',
+      'has_mv': '0',
+      'yyr_artist': '0',
+      'resource_type_ext': '0',
+      'artistname': '周华健',
+      'info': '',
+      'resource_provider': '1',
+      'control': '0000000000',
+      'encrypted_songid': '77081D5D13950858DE4BB2'
+    },
+    {
+      'bitrate_fee': '{"0":"0|0","1":"0|0"}',
+      'weight': '8242099',
+      'songname': '风雨无阻',
+      'resource_type': '0',
+      'songid': '931434',
+      'has_mv': '0',
+      'yyr_artist': '0',
+      'resource_type_ext': '0',
+      'artistname': '周华健',
+      'info': '',
+      'resource_provider': '1',
+      'control': '0000000000',
+      'encrypted_songid': '20081D5EF5990858DE4899'
+    },
+    {
+      'bitrate_fee': '{"0":"0|0","1":"0|0"}',
+      'weight': '5566099',
+      'songname': '最近比较烦',
+      'resource_type': '0',
+      'songid': '263068',
+      'has_mv': '0',
+      'yyr_artist': '0',
+      'resource_type_ext': '0',
+      'artistname': '周华健,品冠,李宗盛',
+      'info': '',
+      'resource_provider': '1',
+      'control': '0000000000',
+      'encrypted_songid': '31081D6779F60858FDAD6A'
+    },
+    {
+      'bitrate_fee': '{"0":"0|0","1":"0|0"}',
+      'weight': '4088099',
+      'songname': '朋友',
+      'resource_type': '0',
+      'songid': '299800',
+      'has_mv': '0',
+      'yyr_artist': '0',
+      'resource_type_ext': '0',
+      'artistname': '周华健',
+      'info': '',
+      'resource_provider': '1',
+      'control': '0000000000',
+      'encrypted_songid': '70081D6F1B6E0858DE48A8'
+    },
+    {
+      'bitrate_fee': '{"0":"0|0","1":"0|0"}',
+      'weight': '3604099',
+      'songname': '花心',
+      'resource_type': '0',
+      'songid': '472686',
+      'has_mv': '0',
+      'yyr_artist': '0',
+      'resource_type_ext': '0',
+      'artistname': '周华健',
+      'info': '',
+      'resource_provider': '1',
+      'control': '0000000000',
+      'encrypted_songid': '93081D65BF060858DE46D2'
+    },
+    {
+      'bitrate_fee': '{"0":"0|0","1":"0|0"}',
+      'weight': '3318099',
+      'songname': '难念的经',
+      'resource_type': '0',
+      'songid': '246197',
+      'has_mv': '0',
+      'yyr_artist': '0',
+      'resource_type_ext': '0',
+      'artistname': '周华健',
+      'info': '',
+      'resource_provider': '1',
+      'control': '0000000000',
+      'encrypted_songid': '82081D606DBB085A38BAC4'
+    },
+    {
+      'bitrate_fee': '{"0":"0|0","1":"0|0"}',
+      'weight': '3108099',
+      'songname': '神话 情话(粤)',
+      'resource_type': '0',
+      'songid': '1098100',
+      'has_mv': '0',
+      'yyr_artist': '0',
+      'resource_type_ext': '0',
+      'artistname': '周华健,齐豫',
+      'info': '电视剧《神雕侠侣（1995年香港版）》主题曲',
+      'resource_provider': '1',
+      'control': '0000000000',
+      'encrypted_songid': '05081D6777ED0858DE4AA2'
+    },
+    {
+      'bitrate_fee': '{"0":"0|0","1":"0|0"}',
+      'weight': '3040099',
+      'songname': '刀剑如梦',
+      'resource_type': '0',
+      'songid': '1250398',
+      'has_mv': '0',
+      'yyr_artist': '0',
+      'resource_type_ext': '0',
+      'artistname': '周华健',
+      'info': '电视剧《倚天屠龙记》主题曲',
+      'resource_provider': '1',
+      'control': '0000000000',
+      'encrypted_songid': '04081D5E99E20858DE48FC'
+    },
+    {
+      'bitrate_fee': '{"0":"0|0","1":"0|0"}',
+      'weight': '2959099',
+      'songname': '让我欢喜让我忧',
+      'resource_type': '0',
+      'songid': '1250574',
+      'has_mv': '0',
+      'yyr_artist': '0',
+      'resource_type_ext': '0',
+      'artistname': '周华健',
+      'info': '电视剧《红蜘蛛》插曲,电视剧《马文的战争》片尾曲',
+      'resource_provider': '1',
+      'control': '0000000000',
+      'encrypted_songid': '20081D61929F0858DE4B89'
+    },
+    {
+      'bitrate_fee': '{"0":"0|0","1":"0|0"}',
+      'weight': '2436099',
+      'songname': '有没有一首歌会让你想起我',
+      'resource_type': '0',
+      'songid': '670654',
+      'has_mv': '0',
+      'yyr_artist': '0',
+      'resource_type_ext': '0',
+      'artistname': '周华健',
+      'info': '电视剧《青蛇与白蛇》主题曲',
+      'resource_provider': '1',
+      'control': '0000000000',
+      'encrypted_songid': '42081D66BED50858DE45BA'
+    }
+  ],
+  'album': [
+    {
+      'albumname': '风雨无阻',
+      'weight': '135190',
+      'artistname': '周华健',
+      'resource_type_ext': '0',
+      'artistpic': 'http://qukufile2.qianqian.com/data2/pic/c9291324603915130fd366e4e94cc237/194037/194037.jpg@s_1,w_40,h_40',
+      'albumid': '194037'
+    },
+    {
+      'albumname': 'NOW现在周华健',
+      'weight': '124810',
+      'artistname': '周华健',
+      'resource_type_ext': '0',
+      'artistpic': 'http://qukufile2.qianqian.com/data2/pic/838d3e1345f3fc2cc454c0118bda6d1d/187446/187446.jpg@s_1,w_40,h_40',
+      'albumid': '187446'
+    },
+    {
+      'albumname': '有故事的人',
+      'weight': '60050',
+      'artistname': '周华健',
+      'resource_type_ext': '0',
+      'artistpic': 'http://qukufile2.qianqian.com/data2/pic/e2158008fc87cb42cb49036a7038fdf1/67134/67134.jpg@s_1,w_40,h_40',
+      'albumid': '67134'
+    },
+    {
+      'albumname': '花心',
+      'weight': '59290',
+      'artistname': '周华健',
+      'resource_type_ext': '0',
+      'artistpic': 'http://qukufile2.qianqian.com/data2/pic/977febf5411733e083f7bb3dc72941cf/66786/66786.jpg@s_1,w_40,h_40',
+      'albumid': '66786'
+    },
+    {
+      'albumname': '爱相随',
+      'weight': '48490',
+      'artistname': '周华健',
+      'resource_type_ext': '0',
+      'artistpic': 'http://qukufile2.qianqian.com/data2/pic/6d64ae4e1458e8c052d47a75b3fc5d4e/65731/65731.jpg@s_1,w_40,h_40',
+      'albumid': '65731'
+    },
+    {
+      'albumname': '朋友',
+      'weight': '44230',
+      'artistname': '周华健',
+      'resource_type_ext': '0',
+      'artistpic': 'http://qukufile2.qianqian.com/data2/pic/fb010f4c3978ba50ed2d0d209aea0463/66603/66603.jpg@s_1,w_40,h_40',
+      'albumid': '66603'
+    },
+    {
+      'albumname': '忘忧草',
+      'weight': '41590',
+      'artistname': '周华健',
+      'resource_type_ext': '0',
+      'artistpic': 'http://qukufile2.qianqian.com/data2/pic/eedcd8c0a640a9a3cfd1885c38185ad2/71278/71278.JPG@s_1,w_40,h_40',
+      'albumid': '71278'
+    },
+    {
+      'albumname': '让我欢喜让我忧',
+      'weight': '38540',
+      'artistname': '周华健',
+      'resource_type_ext': '0',
+      'artistpic': 'http://qukufile2.qianqian.com/data2/pic/67911a620f6baa79f8cd077726a30554/194884/194884.jpg@s_1,w_40,h_40',
+      'albumid': '194884'
+    },
+    {
+      'albumname': '听健',
+      'weight': '38030',
+      'artistname': '周华健',
+      'resource_type_ext': '0',
+      'artistpic': 'http://qukufile2.qianqian.com/data2/pic/afbf57a0faf49ba3cc64ad74d92c50f4/66135/66135.jpg@s_1,w_40,h_40',
+      'albumid': '66135'
+    },
+    {
+      'albumname': '一起吃苦的幸福',
+      'weight': '37340',
+      'artistname': '周华健',
+      'resource_type_ext': '0',
+      'artistpic': 'http://qukufile2.qianqian.com/data2/pic/c7ec92f677ddd5193d3bc1fcb545a48c/66966/66966.jpg@s_1,w_40,h_40',
+      'albumid': '66966'
+    }
+  ],
+  'order': 'artist,song,album',
+  'error_code': 22000,
+  'artist': [
+    {
+      'yyr_artist': '0',
+      'artistname': '周华健',
+      'artistid': '1097',
+      'artistpic': 'http://qukufile2.qianqian.com/data2/pic/d06f59a51303f15f86a801b0e0c64f76/580384071/580384071.jpg@s_0,w_48',
+      'weight': '365200'
+    }
+  ]
+}
